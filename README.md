@@ -6,6 +6,7 @@ Standard point clouds often lack the necessary properties (like scale, rotation,
 
 This script bridges that gap by injecting required Gaussian properties, normalizing color spherical harmonics, applying coordinate system transformations, and triggering the PlayCanvas `splat-transform` tool to build the highly compressed `.sog` file.
 
+You can also convert directly on https://superspl.at/convert 
 ---
 
 ## ✨ Features
